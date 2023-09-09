@@ -8,7 +8,7 @@ Welcome to the Airline Sentiment Analysis project, powered by Power BI. In this 
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
 3. [Prerequisites](#prerequisites)
-   [Installation](#Installation)
+4. [Installation](#Installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 
@@ -33,12 +33,12 @@ The dataset used in this project can be found [here](airline_tweets.xlsx).
 - Power BI Desktop (Version XX.XX.XXXX or higher)
 - The dataset containing Sentiments of people posted on twitter.
 
-  ##Installation
-  - Clone this repository to your local machine or download the ZIP file.
-  - Open Power BI Desktop.
-  - Open the .pbix file located in the repository.
-  - Connect the project to your employee attendance dataset.
-  - Customize visuals, filters, and calculations as needed.
+##Installation
+- Clone this repository to your local machine or download the ZIP file.
+- Open Power BI Desktop.
+- Open the .pbix file located in the repository.
+- Connect the project to your employee attendance dataset.
+- Customize visuals, filters, and calculations as needed.
 
 ## Usage
 
