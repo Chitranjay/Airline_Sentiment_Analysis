@@ -50,7 +50,11 @@ The dataset used in this project can be found [here](airline_tweets.xlsx).
 Contributions are welcome! If you want to contribute to this project, follow these steps:
 
 Fork this repository.
+
 Create a new branch: git checkout -b feature/your-feature-name.
+
 Commit your changes: git commit -m 'Add some feature'.
+
 Push to the branch: git push origin feature/your-feature-name.
+
 Create a pull request explaining your changes.
